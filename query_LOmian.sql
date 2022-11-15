@@ -1,3 +1,5 @@
+-- Roselin Dwi Septiani --
+
 CREATE DATABASE LOmian
 
 USE LOmian
